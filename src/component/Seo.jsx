@@ -1,6 +1,6 @@
 import { Helmet } from "react-helmet-async";
 
-const seo = ({ title, description, type, name }) => {
+const Seo = ({ title, description, type, name }) => {
   return (
     <Helmet>
     <title>{title}</title>
@@ -13,4 +13,4 @@ const seo = ({ title, description, type, name }) => {
   )
 }
 
-export default seo
+export default Seo

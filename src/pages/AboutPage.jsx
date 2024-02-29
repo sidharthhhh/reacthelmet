@@ -1,7 +1,7 @@
 
-// import { Helmet } from 'react-helmet-async';
 
-import { Seo } from "../component/seo";
+
+import  Seo  from "../component/Seo";
 
 export const AboutPage = () => {
   return (
@@ -9,14 +9,12 @@ export const AboutPage = () => {
        <Seo
         title="React SEO | About Page"
         description="description for about page"
-        type="webapp"
+        type="webapp testing"
         name="sidhath"
       />
       <h1>About Page</h1>
       <h2>
-        react-helmet-async is a ReactJs library that provides an API and
-        Components for managing SEO and Meta Data In SPAs on both the server and
-        client sides.
+       its a breif info about the about page
       </h2>
     </>
   );
