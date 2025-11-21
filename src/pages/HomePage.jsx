@@ -11,8 +11,7 @@ export const HomePage = () => {
       </Helmet>
       <h1>Home Page</h1>
       <h2>
-        Integrate ReactJs and react-helmet-async - Manage SEO and Meta
-        Data
+       i just implement cicd in aws for testinggggggggggggggg
       </h2>
     </Fragment>
   );
