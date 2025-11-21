@@ -14,7 +14,8 @@ export const AboutPage = () => {
       />
       <h1>About Page</h1>
       <h2>
-       cicd testinggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+       cicd testinggggggggggggggg
+       tesinggggg brooo
       </h2>
     </>
   );
